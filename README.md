@@ -5,13 +5,15 @@ failure. It contains 1,489 relationships among 961 entities, supported by 839 Pu
 
 **Open the explorer:** https://yujiezhangzz.github.io/beam-initial-kg/
 
-**Expanded version (v4):** https://yujiezhangzz.github.io/beam-initial-kg/v4/ (`v4/index.html`).
-It adds 3,382 abstracts from two further sources: articles cited by the KG articles but not yet in
-the corpus, and MedCPT retrieval with the Andersen-model queries rewritten without HIV wording.
-It contains 4,537 relationships among 2,557 entities, supported by 2,945 articles published
-1993–2026. Every article shows its retrieval source(s) and publication year, and a year-range
-slider and source checkboxes at the top filter every tab. Some of the added general-query
-abstracts are not about HIV; the Methods tab explains how to exclude them.
+**Expanded version (v5):** https://yujiezhangzz.github.io/beam-initial-kg/v5/ (`v5/index.html`).
+It adds 3,257 abstracts from two further sources: articles cited by the KG articles but not yet in
+the corpus, and MedCPT retrieval with seven HIV-specific queries based on the Andersen model
+(provider relationship, clinic and pharmacy services, retention in care, regimen characteristics,
+support and reminders, stigma / health literacy / substance use, beliefs and competing
+priorities). It contains 4,649 relationships among 2,589 entities, supported by 2,992 articles
+published 1993–2026. Every article shows its retrieval source(s) and publication year. A
+year-range slider and source checkboxes at the top filter every tab. The earlier `/v4/` link
+redirects here.
 
 The explorer is a single self-contained page (`index.html`) with these tabs:
 
