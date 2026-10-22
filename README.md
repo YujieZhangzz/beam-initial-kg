@@ -15,6 +15,11 @@ published 1993–2026. Every article shows its retrieval source(s) and publicati
 year-range slider and source checkboxes at the top filter every tab. The earlier `/v4/` and `/v5/`
 links redirect here.
 
+**Version 2.1:** https://yujiezhangzz.github.io/beam-initial-kg/v2.1/ (`v2.1/index.html`).
+Version 2 plus 1,633 abstracts cited by the MedCPT-retrieved articles, shown as the source
+"References of MedCPT articles". It contains 7,155 relationships among 3,606 entities, supported by
+4,344 articles; psychosocial and social/environmental evidence more than doubles compared with v2.
+
 The explorer is a single self-contained page (`index.html`) with these tabs:
 
 - **Relationships**: a searchable, filterable table. Click a row to read the verbatim sentence from
